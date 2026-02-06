@@ -16,7 +16,8 @@
     "ShulkerBoxBlockEntityMixin",
     "ShulkerBoxSlotMixin",
     "TeleportCommandMixin",
-    "TickCommandMixin"
+    "TickCommandMixin",
+    "VillagerTradesEnchantedItemMixin"
   ],
   "injectors": {
     "defaultRequire": 1

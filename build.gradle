@@ -11,12 +11,9 @@ base {
 }
 
 loom {
-    splitEnvironmentSourceSets()
-
     mods {
         "carpet_edtp_addition" {
             sourceSet sourceSets.main
-            sourceSet sourceSets.client
         }
     }
 }

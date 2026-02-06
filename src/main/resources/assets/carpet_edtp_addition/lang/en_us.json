@@ -22,6 +22,8 @@
   "carpet.rule.toughArmorStands.desc": "Armor stands won't take damage from attacks",
   "carpet.rule.toughSlimeBlocks.name": "Tough Slime Blocks",
   "carpet.rule.toughSlimeBlocks.desc": "Set the hardness of slime blocks and honey blocks to be the same as end stone",
+  "carpet.rule.boostTradeEnchants.name": "Boosted Trade Enchants",
+  "carpet.rule.boostTradeEnchants.desc": "0=off; 1=journeyman toolsmith sells enchanted diamond hoe (lvl 5-19); 2=max level 31; 3=max level 50",
   "item.bundle.insert.success": "Inserted %s × %s",
   "item.bundle.insert.fail": "Cannot insert %s (bundle is full)"
 }
